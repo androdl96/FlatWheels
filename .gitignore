@@ -142,6 +142,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+flatW_env/
 
 # Spyder project settings
 .spyderproject
