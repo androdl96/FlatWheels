@@ -19,3 +19,8 @@ The CSV file contains acceleration data from a SIMPACK simulation for testing fr
 - `L` refers to the length of the flat in mm.
 - `VEL` refers to the speed in km/h.
 - `fs` refers to the sampling frequency in Hz
+- `WF` refers to Wheel Flat defect
+- Harmonic:
+  - n1 : Eccentricity
+  - n2 : Ovalization
+  - n3 : Triangularization
